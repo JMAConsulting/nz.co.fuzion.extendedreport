@@ -15,5 +15,6 @@ return [
       'report_url' => 'activityeditable',
       'component' => '',
     ],
+    'update' => 'never',
   ],
 ];

@@ -15,5 +15,6 @@ return [
       'report_url' => 'activityextended',
       'component' => '',
     ],
+    'update' => 'never',
   ],
 ];

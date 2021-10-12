@@ -18,5 +18,6 @@ return [
           'report_url' => 'contact/addresshistory',
           'component' => '',
         ],
+      'update' => 'never',
     ],
 ];

@@ -15,5 +15,6 @@ return [
       'report_url' => 'contribution/pivot',
       'component' => 'CiviContribute',
     ],
+    'update' => 'never',
   ],
 ];
