@@ -15,5 +15,6 @@ return [
       'report_url' => 'relationshipextended',
       'component' => '',
     ],
+    'update' => 'never',
   ],
 ];

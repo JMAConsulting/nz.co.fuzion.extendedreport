@@ -15,5 +15,6 @@ return [
       'report_url' => 'contribution/detailextended',
       'component' => 'CiviContribute',
     ],
+    'update' => 'never',
   ],
 ];

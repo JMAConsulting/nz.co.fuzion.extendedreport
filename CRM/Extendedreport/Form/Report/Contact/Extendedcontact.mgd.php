@@ -17,5 +17,6 @@ return [
       'report_url' => 'contact/contactextended',
       'component' => '',
     ],
+    'update' => 'never',
   ],
 ];

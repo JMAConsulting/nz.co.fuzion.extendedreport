@@ -5,7 +5,7 @@
 // http://wiki.civicrm.org/confluence/display/CRMDOC42/Hook+Reference
 return [
   0 => [
-    'name' => 'Extended Report - Flexible  ontact Report',
+    'name' => 'Extended Report - Flexible contact Report',
     'entity' => 'ReportTemplate',
     'params' => [
       'version' => 3,
@@ -15,5 +15,6 @@ return [
       'report_url' => 'contact/contactbasic',
       'component' => '',
     ],
+    'update' => 'never',
   ],
 ];

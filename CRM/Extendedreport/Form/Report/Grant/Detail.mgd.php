@@ -15,5 +15,6 @@ return [
       'report_url' => 'grant/detailextended',
       'component' => 'CiviGrant',
     ],
+    'update' => 'never',
   ],
 ];

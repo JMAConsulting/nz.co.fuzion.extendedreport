@@ -15,5 +15,6 @@ return [
       'report_url' => 'contribution/bookkeeping_extended',
       'component' => 'CiviContribute',
     ],
+    'update' => 'never',
   ],
 ];
